@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Rana
+# 👋 Hi, I'm Ashish
 
 ### Data Engineer • Real-Time Analytics • Distributed Systems
 
