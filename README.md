@@ -1,24 +1,28 @@
 <h1 align="center">Ashish</h1>
 
 <p align="center">
-<strong>Data Engineer</strong>
+<strong>Data Engineer | Real-Time Data Systems</strong>
 </p>
 
 <p align="center">
-Building scalable, production-ready data platforms using Python, Kafka, Spark, Airflow and PostgreSQL.
+Building scalable, production-ready data platforms using Python, Kafka, Spark, Airflow, PostgreSQL and Docker.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Real-Time+Data+Platforms;Apache+Kafka+%7C+Apache+Spark;Apache+Airflow+%7C+PostgreSQL;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Real-Time+Data+Platforms;Apache+Kafka+%7C+Apache+Spark;Apache+Airflow+%7C+PostgreSQL;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://app.joinhandshake.com/profiles/73xvpc">
+<img src="https://img.shields.io/badge/Handshake-FF6B35?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://github.com/ashirana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ashish.01.rana@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -33,55 +37,32 @@ Building scalable, production-ready data platforms using Python, Kafka, Spark, A
 # 👨‍💻 About Me
 
 - 🚀 Building scalable Data Engineering solutions
-- ⚡ Developing real-time streaming systems with Kafka & Spark
-- 🐳 Building production-ready ETL pipelines with Airflow & Docker
-- 📊 Passionate about distributed data systems
+- ⚡ Designing real-time streaming pipelines with Kafka & Spark
+- 🐳 Developing production-ready ETL pipelines using Airflow & Docker
+- 📊 Passionate about distributed data systems and analytics platforms
 - 🇬🇧 Seeking Data Engineering opportunities in the UK
 
 ---
 
 # 💼 What I Build
 
-- Real-Time Data Pipelines
-- Streaming Analytics Platforms
-- Batch ETL Pipelines
-- PostgreSQL Data Warehouses
-- Dockerized Data Platforms
-- Spark-Based Data Processing
+- ⚡ Real-Time Data Pipelines
+- 📈 Streaming Analytics Platforms
+- 🔄 Batch ETL Workflows
+- 🗄️ PostgreSQL Data Warehouses
+- ☁️ Cloud-Ready Data Platforms
+- 📊 End-to-End Data Engineering Solutions
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚀 Real-Time E-commerce Analytics Platform
-
-Real-time analytics platform using **Kafka**, **Spark Structured Streaming**, **PostgreSQL** and **Docker**.
-
-🔗 https://github.com/ashirana/realtime-ecommerce-analytics-platform
-
----
-
-### ⚡ Airflow Incremental ETL Pipeline
-
-Production-ready ETL pipeline using **Apache Airflow**, **Docker**, **PostgreSQL** and incremental loading.
-
-🔗 https://github.com/ashirana/airflow-s3-incremental-pipeline
-
----
-
-### 🤖 Real-Time E-commerce Anomaly Detection
-
-Streaming anomaly detection using **Spark ML**, feature engineering and real-time processing.
-
-🔗 https://github.com/ashirana/realtime-ecommerce-anomaly-detection
-
----
-
-### 📊 Kafka Streaming Pipeline
-
-Producer → Kafka → Consumer → PostgreSQL streaming pipeline.
-
-🔗 https://github.com/ashirana/kafka-streaming-pipeline
+| Project | Description |
+|---------|-------------|
+| **🚀 Real-Time E-commerce Analytics Platform** | Kafka · Spark Structured Streaming · PostgreSQL · Docker |
+| **⚡ Airflow Incremental ETL Pipeline** | Apache Airflow · Docker · PostgreSQL |
+| **🤖 Real-Time E-commerce Anomaly Detection** | Spark ML · Feature Engineering |
+| **📊 Kafka Streaming Pipeline** | Kafka Producers · Consumers · PostgreSQL |
 
 ---
 
@@ -119,13 +100,15 @@ Producer → Kafka → Consumer → PostgreSQL streaming pipeline.
 
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
@@ -133,27 +116,29 @@ Producer → Kafka → Consumer → PostgreSQL streaming pipeline.
 
 # 📜 Certifications
 
-### 🏅 DataCamp
-
-**Data Science Associate**
+### 🏅 DataCamp — Data Science Associate
 
 🔗 https://www.datacamp.com/certificate/DSA0012075237716
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Learning
 
 - Apache Spark Internals
-- Distributed Data Systems
+- Distributed Data Processing
 - Data Modeling
 - Cloud Data Engineering (AWS)
-- Data Platform Architecture
 - System Design
+- Performance Optimization
 
 ---
-# 📫 Connect
 
-- 📧 Email: ashish.01.rana@gmail.com
+# 📫 Contact
+
+📧 **Email:** ashish.01.rana@gmail.com
+
+🤝 **Handshake:** https://app.joinhandshake.com/profiles/73xvpc
+
 ---
 
 <p align="center">
