@@ -1,45 +1,81 @@
-<div align="center">
-
-<img src="assets/banner/banner.png" width="100%" alt="Banner"/>
-
-# 👋 Hi, I'm Ashish
-
-### Data Engineer | Real-Time Analytics | Distributed Systems
+<h1 align="center">Ashish</h1>
 
 <p align="center">
-Building scalable data platforms with Kafka, Spark, Airflow, PostgreSQL & Python.
+<b>Data Engineer | Real-Time Data Systems</b>
 </p>
 
-</div>
+<p align="center">
+Building scalable, production-ready data platforms with Python, Kafka, Spark, Airflow and PostgreSQL.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Real-Time+Data+Platforms;Kafka+%7C+Spark+%7C+Airflow+%7C+PostgreSQL;Always+Learning+Something+New"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashirana&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔭 Building production-grade Data Engineering projects
-- 🌱 Learning Distributed Data Systems
-- ⚡ Passionate about Real-Time Analytics
-- 🎯 Target Role: Data Engineer (UK)
+- 🚀 Data Engineer focused on scalable data platforms
+- 🔥 Passionate about Streaming Systems
+- ⚡ Building production-ready projects
+- 🇬🇧 Looking for Data Engineering opportunities in the UK
 
 ---
 
-## 🏗️ Current Tech Stack
+# 🏆 GitHub Trophies
 
-### Languages
+<p align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
+<img src="https://github-profile-trophy.vercel.app/?username=ashirana&theme=algolia&no-frame=true&row=1&column=6"/>
 
-![postgres](https://skillicons.dev/icons?i=postgres)
+</p>
 
-### Data Engineering
+---
 
-![Kafka](https://skillicons.dev/icons?i=kafka)
+# 📊 GitHub Statistics
 
-![Docker](https://skillicons.dev/icons?i=docker)
+<p align="center">
 
-![Git](https://skillicons.dev/icons?i=git)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashirana&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Linux](https://skillicons.dev/icons?i=linux)
+<img height="170" src="https://streak-stats.demolab.com?user=ashirana&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirana&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashirana&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ashirana/ashirana/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
@@ -47,9 +83,40 @@ Building scalable data platforms with Kafka, Spark, Airflow, PostgreSQL & Python
 
 | Project | Stack |
 |---------|-------|
-| Real-Time E-commerce Analytics Platform | Kafka · Spark · PostgreSQL |
-| Airflow Incremental ETL Pipeline | Airflow · Docker |
-| Real-Time Anomaly Detection | Spark ML |
-| Kafka Streaming Pipeline | Kafka · Python |
+| [Real-Time E-commerce Analytics Platform](https://github.com/ashirana/realtime-ecommerce-analytics-platform) | Kafka • Spark • PostgreSQL |
+| [Airflow Incremental ETL Pipeline](https://github.com/ashirana/airflow-s3-incremental-pipeline) | Airflow • Docker |
+| [Real-Time E-commerce Anomaly Detection](https://github.com/ashirana/realtime-ecommerce-anomaly-detection) | Spark ML |
+| [Kafka Streaming Pipeline](https://github.com/ashirana/kafka-streaming-pipeline) | Kafka • Python |
 
 ---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,kafka,docker,git,linux,aws"/>
+
+</p>
+
+# 📚 Currently Learning
+
+- Apache Spark
+- Data Modeling
+- Cloud Data Engineering
+- System Design
+- Distributed Systems
+
+---
+
+# 📫 Connect
+
+- LinkedIn
+- Email
+
+---
+
+<p align="center">
+
+<i>Turning data into reliable, scalable and production-ready systems.</i>
+
+</p>
