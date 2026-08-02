@@ -136,8 +136,7 @@ Building scalable, production-ready data platforms with Python, Kafka, Spark, Ai
 
 # 📫 Connect
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: ashish.01.rana@gmail.com
 
 <br>
 
