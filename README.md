@@ -5,39 +5,35 @@
 </p>
 
 <p align="center">
-Building scalable, production-ready data platforms with Python, Kafka, Spark, Airflow and PostgreSQL.
+Building scalable, production-ready data platforms using Python, Kafka, Spark, Airflow and PostgreSQL.
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Real-Time+Data+Platforms;Kafka+%7C+Spark+%7C+Airflow+%7C+PostgreSQL;Always+Learning+Something+New"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+Real-Time+Data+Platforms;Kafka+%7C+Spark+%7C+Airflow+%7C+PostgreSQL;Always+Learning+Something+New" alt="Typing SVG"/>
 </p>
 
 <p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=ashirana&label=Profile+Views&color=0e75b6&style=flat"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.datacamp.com/certificate/DSA0012075237716">
+<img src="https://img.shields.io/badge/DataCamp-Certified-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🚀 Data Engineer focused on scalable data platforms
-- 🔥 Passionate about Streaming Systems
-- ⚡ Building production-ready projects
+- 🚀 Data Engineer passionate about building scalable data platforms
+- ⚡ Experienced with streaming pipelines using Kafka & Spark
+- 🐳 Building production-ready ETL systems with Airflow & Docker
 - 🇬🇧 Looking for Data Engineering opportunities in the UK
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashirana&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
@@ -47,7 +43,7 @@ Building scalable, production-ready data platforms with Python, Kafka, Spark, Ai
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashirana&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=ashirana&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashirana&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -59,7 +55,7 @@ Building scalable, production-ready data platforms with Python, Kafka, Spark, Ai
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -69,54 +65,84 @@ Building scalable, production-ready data platforms with Python, Kafka, Spark, Ai
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 Featured Projects
 
-<p align="center">
+## 🚀 Real-Time E-commerce Analytics Platform
 
-<img src="https://raw.githubusercontent.com/ashirana/ashirana/output/github-contribution-grid-snake-dark.svg"/>
+End-to-end streaming analytics platform using Kafka, Spark Structured Streaming, PostgreSQL and Docker.
 
-</p>
+🔗 https://github.com/ashirana/realtime-ecommerce-analytics-platform
 
 ---
 
-# 🚀 Featured Projects
+## ⚡ Airflow Incremental ETL Pipeline
 
-| Project | Stack |
-|---------|-------|
-| [Real-Time E-commerce Analytics Platform](https://github.com/ashirana/realtime-ecommerce-analytics-platform) | Kafka • Spark • PostgreSQL |
-| [Airflow Incremental ETL Pipeline](https://github.com/ashirana/airflow-s3-incremental-pipeline) | Airflow • Docker |
-| [Real-Time E-commerce Anomaly Detection](https://github.com/ashirana/realtime-ecommerce-anomaly-detection) | Spark ML |
-| [Kafka Streaming Pipeline](https://github.com/ashirana/kafka-streaming-pipeline) | Kafka • Python |
+Production-ready ETL pipeline using Apache Airflow, Docker and PostgreSQL.
+
+🔗 https://github.com/ashirana/airflow-s3-incremental-pipeline
+
+---
+
+## 🤖 Real-Time E-commerce Anomaly Detection
+
+Real-time anomaly detection using Spark ML and feature engineering.
+
+🔗 https://github.com/ashirana/realtime-ecommerce-anomaly-detection
+
+---
+
+## 📊 Kafka Streaming Pipeline
+
+Streaming pipeline built using Kafka Producers, Consumers and PostgreSQL.
+
+🔗 https://github.com/ashirana/kafka-streaming-pipeline
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,postgres,kafka,docker,git,linux,aws"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
 
 </p>
 
-# 📚 Currently Learning
+### Data Engineering
 
-- Apache Spark
-- Data Modeling
-- Cloud Data Engineering
-- System Design
-- Distributed Systems
+<p>
+
+<img src="https://skillicons.dev/icons?i=kafka"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</p>
 
 ---
 
-# 📫 Connect
+# 📜 Certifications
 
-- LinkedIn
-- Email
+### 🏅 DataCamp
+
+**Data Science Associate**
+
+https://www.datacamp.com/certificate/DSA0012075237716
 
 ---
 
 <p align="center">
 
-<i>Turning data into reliable, scalable and production-ready systems.</i>
+<i>"Turning data into reliable, scalable and production-ready systems."</i>
 
 </p>
